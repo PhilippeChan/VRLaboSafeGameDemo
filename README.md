@@ -28,7 +28,7 @@ These are the software and hardware you need to install the VR LaboSafe Game Dem
 
 ## How to install VR LaboSafe Game Demo
 
-In this repository you can find an .apk file of VR LaboSafe Game Demo. To install this .apk file onto the Oculus Quest 2 is fairly easy.
+In this repository you can find an .apk file of VR LaboSafe Game Demo in Releases. To install this .apk file onto the Oculus Quest 2 is fairly easy.
 There is a nice and clear guide that you can follow here: [UploadVR GUIDE: How To Sideload Content On Oculus Quest Using SideQuest – Mobile And PC (Updated 2021)](https://uploadvr.com/sideloading-quest-how-to/)
 
 ## Credits & Acknowledgements
