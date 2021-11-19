@@ -8,7 +8,7 @@
 
 
     
-</p>  
+<p align="center"><img src="https://github.com/PhilippeChan/VRLaboSafeGameDemo/blob/main/VR%20LaboSafe%20Game%20Logo%20Banner.jpg" width="500px" /></p>
 
 
 
@@ -46,5 +46,14 @@ Supervisory:
 * Dr. Fernando José Russo Abbegão (Newcastle University)
 * Prof. Dr. Liesbeth Kester (Utrecht University)
 * Dr. Bert Slof (Hanzehogeschool Groningen)
+<br></br>
+<p align="center"><img src="https://www.arkema.com/files/live/sites/shared_arkema/files/arkema_logo.png" height="60px" /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://www.kuleuven.be/internationaal/thinktank/fotos-en-logos/ku-leuven-logo.png/image_preview" height="60px" /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://www.ncl.ac.uk/gomobileassets/img/logo.svg" height="60px" /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://www.uu.nl/themes/custom/corp/src/images/uu-logo-en.svg" height="60px" /></p>
+
+
+<p align="center"><img src="https://charming-etn.eu/wp-content/uploads/2018/06/charming-logo-1.png" width="200px" /></p>
+
+<p align="center"><Visit [cherming-etn.eu]</p>
+
+<p align="center"><img src="https://charming-etn.eu/wp-content/uploads/2018/12/flag_yellow_low.jpg" width="200px" /></p>
 
 <p align=center>This project has received funding from the European Union's EU Framework Programme for Research and Innovation Horizon 2020 under Grant Agreement 812716.</p>
