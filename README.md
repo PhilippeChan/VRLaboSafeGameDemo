@@ -9,7 +9,7 @@
 
     
 [![VR LaboSafe Game video trailer](https://img.youtube.com/vi/yDEyEgvxA88/0.jpg)](https://youtu.be/yDEyEgvxA88)
-<p align="center">Click on the image for the video trailer!</p>
+<p align="left">Click on the image for the video trailer!</p>
 
 
 
